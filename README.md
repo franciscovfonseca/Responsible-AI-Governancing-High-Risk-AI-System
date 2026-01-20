@@ -291,10 +291,3 @@ Full automation is explicitly **not permitted.**
 <br>
 
 <br>
-
-
-This project demonstrates how high-risk AI systems can be governed responsibly through structured risk assessment, enforceable controls, and clear accountability.
-
-Rather than treating Responsible AI as an abstract concept, this approach operationalizes it into real governance decisions, ensuring AI delivers business value without compromising trust, compliance, or human responsibility.
-
-<br>
