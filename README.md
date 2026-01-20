@@ -20,7 +20,7 @@ This project demonstrates how to translate abstract Responsible AI principles in
 
 <br>
 
-## Business Context & Problem Statement
+## 🎯 Business Context & Problem Statement
 
 <br>
 
@@ -38,7 +38,7 @@ The business proposes an AI solution to improve efficiency, but without governan
 
 <br>
 
-## Proposed AI Use Case
+## 🤖 Proposed AI Use Case
 
 <br>
 
@@ -79,7 +79,7 @@ This proposal triggers **mandatory Responsible AI governance review** due to its
 
 <br>
 
-## AI Governance Operating Model
+## 🧭 AI Governance Operating Model
 
 <br>
 
@@ -181,15 +181,15 @@ The committee evaluates:
 
 ✅ **Approved with Conditions**
 
-⚠️ Full automation is explicitly **not permitted.**
+Full automation is explicitly **not permitted.**
+
+<br>
 
 <br>
 
 ## 🔐 Enforced Responsible AI Controls
 
-<br>
-
-### Control 1: Mandatory Human-in-the-Loop
+</details> <details close> <summary> <h3> Control 1: Mandatory Human-in-the-Loop</h3> </summary>
 
 - AI outputs are advisory only
 
@@ -199,7 +199,7 @@ The committee evaluates:
 
 <br>
 
-### Control 2: Tiered Decision Model
+</details> <details close> <summary> <h3> Control 2: Tiered Decision Model</h3> </summary>
 
 - Low risk → fast-track review
 
@@ -209,7 +209,7 @@ The committee evaluates:
 
 <br>
 
-### Control 3: Transparency & Evidence
+</details> <details close> <summary> <h3> Control 3: Transparency & Evidence</h3> </summary>
 
 - Logged:
   
@@ -225,7 +225,7 @@ The committee evaluates:
 
 <br>
 
-### Control 4: Acceptable Use Policy Enforcement
+</details> <details close> <summary> <h3> Control 4: Acceptable Use Policy Enforcement</h3> </summary>
 
 - AI cannot be the sole decision-maker
   
@@ -237,7 +237,7 @@ The committee evaluates:
 
 <br>
 
-### Control 5: Ongoing Monitoring
+</details> <details close> <summary> <h3> Control 5: Ongoing Monitoring</h3> </summary>
 
 - Quarterly fairness testing
 
@@ -250,7 +250,9 @@ The committee evaluates:
 
 <br>
 
-## ✅ Final Outcome
+</details> <br>
+
+## ✔️ Final Outcome
 
 <br>
 
@@ -283,15 +285,6 @@ The committee evaluates:
 - Responsible AI Assessment Checklist (PDF)
   
 - Acceptable Use Policy for AI
-  
-- Project Slides and Case Walkthrough
-
-
-
-
-
-
-
 
 <br>
 
@@ -299,229 +292,6 @@ The committee evaluates:
 
 <br>
 
-<br>
-
-
-
-
-
-</details> <details close> <summary> <h3> 2️⃣ Responsible AI Risk Assessment</h3> </summary>
-
-Conducted a structured Responsible AI Risk Assessment aligned with:
-
-Fairness
-
-Accountability
-
-Transparency
-
-Safety & misuse
-
-Assessed:
-
-Business impact
-
-Data sensitivity
-
-Automation risk
-
-Human oversight requirements
-
-Assigned an Overall Risk Rating: HIGH
-
-📄 Full assessment available in /risk-assessment.
-
-</details> <details close> <summary> <h3> 3️⃣ Governance Committee Review</h3> </summary>
-
-Presented findings to a cross-functional AI Governance Committee:
-
-Business Owner
-
-Security (CISO / Risk)
-
-Legal & Compliance
-
-GRC
-
-Evaluated:
-
-Who is accountable for AI outcomes
-
-Regulatory and compliance exposure
-
-Residual risk after controls
-
-Resulted in a Go / Conditional Go decision
-
-</details> <details close> <summary> <h3> 4️⃣ Control Design & Enforcement</h3> </summary>
-
-Designed governance and operational controls to mitigate identified risks
-
-Controls scale based on risk level
-
-Focus on preventing:
-
-Automation bias
-
-Unexplainable decisions
-
-Loss of accountability
-
-</details> <details close> <summary> <h3> 5️⃣ Policy & Operational Integration</h3> </summary>
-
-Integrated Responsible AI controls into:
-
-Acceptable Use Policy for AI
-
-Incident response processes
-
-Ongoing monitoring and reassessment
-
-Ensured AI governance is enforced, not just documented
-
-</details> <br>
-Responsible AI Risk Assessment Summary
-<br>
-Risk Area	Assessment
-Business Impact	High
-Data Sensitivity	High
-Fairness Risk	High
-Transparency	High
-Accountability	Medium
-Safety & Misuse	High
-
-📌 Overall Classification:
-🔴 HIGH-RISK AI SYSTEM
-
-Supporting artifacts and evidence are included in /risk-assessment.
-
-<br>
-Governance Controls Implemented
-<details close> <summary> <h3> 🧑‍⚖️ Human-in-the-Loop Enforcement</h3> </summary>
-
-AI outputs are recommendation-only
-
-All negative or adverse outcomes require human review
-
-Final accountability remains with a human decision-maker
-
-</details> <details close> <summary> <h3> 🧠 Tiered Decision Model</h3> </summary>
-
-Low-risk cases → expedited human validation
-
-Medium-risk cases → analyst review
-
-High-risk cases → senior approval
-
-Prevents blind reliance on AI outputs
-
-</details> <details close> <summary> <h3> 📊 Transparency & Auditability</h3> </summary>
-
-Logged and retained:
-
-Inputs
-
-AI recommendations
-
-Human decisions
-
-Overrides
-
-Evidence available for:
-
-Audits
-
-Regulators
-
-Customer disputes
-
-</details> <details close> <summary> <h3> 📜 Acceptable Use Policy for AI</h3> </summary>
-
-Defines approved and prohibited AI uses
-
-Explicitly forbids:
-
-Fully autonomous high-impact decisions
-
-Use of sensitive data without safeguards
-
-Reinforces that AI is not a decision-maker
-
-📄 Policy included in /policies.
-
-</details> <details close> <summary> <h3> 🔄 Ongoing Monitoring & Reassessment</h3> </summary>
-
-Periodic fairness testing
-
-Drift detection
-
-Mandatory reassessment if:
-
-Model logic changes
-
-Data sources change
-
-Automation level increases
-
-</details> <br>
-Architecture & Governance Flow
-<br> <p align="center"> <img src="PASTE_DIAGRAM_LINK_HERE" height="80%" width="80%" alt="AI Governance Flow"/><br /> <br /> <details close> <summary> <h3> 🏛️ AI Governance Operating Model</h3> </summary>
-
-All AI systems enter a governance pipeline
-
-High-risk systems require:
-
-Formal risk assessment
-
-Committee approval
-
-Control enforcement
-
-No deployment without explicit ownership and accountability
-
-</details> <br>
-Key Outcomes
-<br>
-
-✅ AI deployed with controlled automation
-✅ Human judgment preserved
-✅ Regulatory exposure reduced
-✅ Decisions are explainable and auditable
-✅ Governance scales with risk
-
-<br>
-Technologies, Frameworks & Governance Artifacts
-<br>
-
-Responsible AI Risk Assessment Checklist
-
-AI Governance Operating Model
-
-Acceptable Use Policy for Artificial Intelligence
-
-Risk-based approval gates
-
-Human-in-the-loop decision enforcement
-
-EU AI Act (High-Risk AI alignment)
-
-Enterprise risk management integration
-
-<br>
-Further Resources
-<br>
-
-📄 Responsible AI Assessment Checklist (PDF)
-
-📄 Responsible AI Risk Assessment
-
-📄 Acceptable Use Policy for AI
-
-📊 Project Slides & Case Walkthrough
-
-<br>
-Conclusion
-<br>
 
 This project demonstrates how high-risk AI systems can be governed responsibly through structured risk assessment, enforceable controls, and clear accountability.
 
