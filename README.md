@@ -278,13 +278,13 @@ Full automation is explicitly **not permitted.**
 
 <br>
 
-## 📎 References
+## 📎 Resources
 
 <br>
 
-- Responsible AI Assessment Checklist (PDF)
+- [Responsible AI Assessment Checklist](https://github.com/user-attachments/files/24740495/Responsible.AI.Assessment.Checklist.pdf)
   
-- Acceptable Use Policy for AI
+- [Acceptable Use Policy for AI](https://github.com/user-attachments/files/24740427/Acceptable.Use.Policy.for.Artificial.Intelligence.AI.pdf)
 
 <br>
 
