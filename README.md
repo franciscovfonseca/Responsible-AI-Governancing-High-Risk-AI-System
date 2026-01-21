@@ -75,7 +75,9 @@ The proposed AI system would:
 
 <br>
 
-This proposal triggers **mandatory Responsible AI governance review** due to its impact on individuals’ access to financial services.
+💡 This proposal triggers **mandatory Responsible AI governance review** due to its impact on individuals’ access to financial services.
+
+<br>
 
 <br>
 
@@ -107,7 +109,7 @@ The operating model enforces:
 
 <br>
 
-## 🧪 Responsible AI Risk Assessment
+## 📝 Responsible AI Risk Assessment
 
 <br>
 
